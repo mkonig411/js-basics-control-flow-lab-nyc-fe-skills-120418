@@ -18,4 +18,4 @@ function switchOnCharmFromTip(amount) {
     case "generous": 
       return "Thank you so much." }
 {   case " not as generous": 
-      return "Thank you."
+      return "Thank you." }
