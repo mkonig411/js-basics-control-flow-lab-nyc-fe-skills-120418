@@ -6,7 +6,7 @@ function scuberGreetingForFeet(someValue) {
   
 }
 
-if (scuberGreetingForFreet === 10) {
+if (scuberGreetingForFreet < ) {
   alert('This one is on me!')
 } else if (tacosToOrder === 8) {
   alert('You have 8 tacos, want to add some more?')
