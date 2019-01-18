@@ -2,8 +2,8 @@
 function scuberGreetingForFeet(feet) {
   if (feet <= 400 ) {
   return ('This one is on me!')
-} else if (scuberGreetingForFeet > 400) {
-  alert('Your ride costs someValue')
+} else if (feet > 400) {
+  return ('Your ride costs')
 } 
 }
 
