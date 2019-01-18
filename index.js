@@ -1,12 +1,8 @@
 // Write your code in this file!
-function scuberGreetingForFeet(someValue) {
-  //this is where we can use conditionals given our argument, someValue
-  //don't forget to return whatever the result is!
-  
-  
+function scuberGreetingForFeet(feet) {
 }
 
-if (scuberGreetingForFeet <= 400 ) {
+if (feet <= 400 ) {
   alert('This one is on me!')
 } else if (scuberGreetingForFeet > 400) {
   alert('Your ride costs someValue')
