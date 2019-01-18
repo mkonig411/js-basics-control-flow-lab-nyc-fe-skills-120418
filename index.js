@@ -10,7 +10,7 @@ return 'I will gladly take your thirty bucks.'
 }
 
 function ternaryCheckCity(city) {
-  return (city === NYC ? "") {
+  return (city === NYC ? "Ok, sounds good." :  {
     return ('Ok, sounds good.')
   } else if (city = )
 }
