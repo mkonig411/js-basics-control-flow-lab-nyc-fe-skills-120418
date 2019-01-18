@@ -9,4 +9,6 @@ return ('I will gladly take your thirty bucks.')
 }
 }
 
-function ternaryCheckCity()
+function ternaryCheckCity(city) {
+  if (city = 'NYC')
+}
