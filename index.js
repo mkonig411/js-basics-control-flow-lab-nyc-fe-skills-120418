@@ -21,7 +21,7 @@ function switchOnCharmFromTip(amount) {
    case "not as generous":{ 
       return "Thank you."
       break}
-     case "anything else": {
+     default: {
       return "Bye."
       break}
 }}
