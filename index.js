@@ -6,10 +6,8 @@ function scuberGreetingForFeet(someValue) {
   
 }
 
-if (scuberGreetingForFreet < ) {
+if (scuberGreetingForFeet <= 400 ) {
   alert('This one is on me!')
-} else if (tacosToOrder === 8) {
-  alert('You have 8 tacos, want to add some more?')
-} else {
-  alert('You have some other number of tacos, idk')
-}
+} else if (scuberGreetingForFeet > 399) {
+  alert('Your ride costs someValue')
+} 
