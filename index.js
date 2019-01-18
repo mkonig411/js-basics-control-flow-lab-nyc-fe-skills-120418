@@ -17,5 +17,5 @@ function switchOnCharmFromTip(amount) {
   switch(amount) {
     case "generous": 
       return "Thank you so much."
-  }
-}
+}    case "generous": 
+      return "Thank you so much."
